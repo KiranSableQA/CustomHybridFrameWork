@@ -1,0 +1,44 @@
+22:33:30.247 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:33:30.251 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:33:30.251 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:33:30.269 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:33:30.270 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:33:30.271 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:33:30.289 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:33:30.290 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:33:30.291 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:33:30.305 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:33:30.306 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:33:30.308 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:33:30.326 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:33:30.327 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:33:30.327 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:33:30.346 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:33:30.346 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:33:30.347 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:33:30.370 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:33:30.371 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:33:30.373 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:33:30.457 [main] INFO  testCases.TC003_LoginCartDDT - ******  Start The TC003_LoginDDT ******
+22:33:32.547 [main] INFO  testCases.TC003_LoginCartDDT - ******  End The TC003_LoginDDT ******
+22:33:32.680 [main] INFO  testCases.TC003_LoginCartDDT - ******  Start The TC003_LoginDDT ******
+22:33:43.268 [main] INFO  testCases.TC003_LoginCartDDT - ******  End The TC003_LoginDDT ******
+22:33:43.283 [main] INFO  testCases.TC003_LoginCartDDT - ******  Start The TC003_LoginDDT ******
+22:33:55.042 [main] INFO  testCases.TC003_LoginCartDDT - ******  End The TC003_LoginDDT ******
+22:33:55.056 [main] INFO  testCases.TC003_LoginCartDDT - ******  Start The TC003_LoginDDT ******
+22:34:06.610 [main] INFO  testCases.TC003_LoginCartDDT - ******  End The TC003_LoginDDT ******
+22:34:06.624 [main] INFO  testCases.TC003_LoginCartDDT - ******  Start The TC003_LoginDDT ******
+22:34:08.454 [main] INFO  testCases.TC003_LoginCartDDT - ******  End The TC003_LoginDDT ******
+22:34:08.461 [main] INFO  testCases.TC003_LoginCartDDT - ******  Start The TC003_LoginDDT ******
+22:34:19.004 [main] INFO  testCases.TC003_LoginCartDDT - ******  End The TC003_LoginDDT ******
+22:35:56.737 [main] INFO  testCases.TC002_LoginCart -  ***** Start TC002_LoginCart ***** 
+23:08:40.696 [main] INFO  testCases.TC002_LoginCart -  ***** Start TC002_LoginCart ***** 
+23:09:37.342 [main] INFO  testCases.TC002_LoginCart -  ***** Start TC002_LoginCart ***** 
+23:12:17.885 [main] INFO  testCases.TC002_LoginCart -  ***** Start TC002_LoginCart ***** 
+23:14:31.199 [main] INFO  testCases.TC002_LoginCart -  ***** Start TC002_LoginCart ***** 
+23:17:19.319 [main] INFO  testCases.TC002_LoginCart -  ***** Start TC002_LoginCart ***** 
+23:17:25.404 [main] INFO  testCases.TC002_LoginCart -  ***** Finish TC002_LoginCart ***** 
+23:22:39.824 [main] INFO  testCases.TC002_LoginCart -  ***** Start TC002_LoginCart ***** 
+23:22:45.598 [main] INFO  testCases.TC002_LoginCart -  ***** Finish TC002_LoginCart ***** 
+23:44:25.214 [main] INFO  testCases.TC002_LoginCart -  ***** Start TC002_LoginCart ***** 
+23:44:31.254 [main] INFO  testCases.TC002_LoginCart -  ***** Finish TC002_LoginCart ***** 
